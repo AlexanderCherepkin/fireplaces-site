@@ -1541,7 +1541,7 @@ footer {
 }
 
 .company-name {
-    margin-bottom: 5rem;
+    margin-bottom: -5rem;
 }
 
 
@@ -2168,3 +2168,4 @@ footer {
     }
 
 }
+
