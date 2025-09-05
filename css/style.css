@@ -1540,8 +1540,9 @@ footer {
     padding-right: 1.875rem;
 }
 
-
-
+.company-name {
+    margin-bottom: 5rem;
+}
 
 
 
@@ -2165,4 +2166,5 @@ footer {
     .descr-company {
         top: 33.5rem;
     }
+
 }
