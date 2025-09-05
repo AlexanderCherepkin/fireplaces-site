@@ -1542,7 +1542,7 @@ footer {
 
 .company-name,
 .company-descr {
-   transform: translateY(-5rem);
+   transform: translateY(-7rem);
 }
 
 
@@ -2169,6 +2169,7 @@ footer {
     }
 
 }
+
 
 
 
