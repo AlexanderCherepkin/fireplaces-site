@@ -1540,9 +1540,13 @@ footer {
     padding-right: 1.875rem;
 }
 
-.company-descr {
+/* .company-descr {
 /*    transform: translateY(-2rem); */
     margin-bottom: -7rem;
+} */
+
+#delivery {
+     margin-top: -7rem;
 }
 
 
@@ -2169,6 +2173,7 @@ footer {
     }
 
 }
+
 
 
 
