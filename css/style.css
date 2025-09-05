@@ -1540,7 +1540,8 @@ footer {
     padding-right: 1.875rem;
 }
 
-.company-name {
+.company-name,
+.company-descr {
    transform: translateY(-5rem);
 }
 
@@ -2168,5 +2169,6 @@ footer {
     }
 
 }
+
 
 
